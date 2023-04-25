@@ -1,6 +1,8 @@
 import boto3
 from botocore.exceptions import ClientError
 
+# By Gustavo Kennedy Renkel
+
 SENDER = "Overall.Cloud <contato@overall.cloud>"
 
 # Destinatário
